@@ -34,8 +34,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/modis-blog.git
-    cd modis-blog
+    [git clone https://github.com/Nitishmodi/Blog-Application-MERN]
+    cd Blog-Application
     ```
 
 2. **Install dependencies for both the server and client:**

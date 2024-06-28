@@ -101,7 +101,7 @@ modis-blog/
 ├── README.md           # This file
 └── package.json        # Project metadata and scripts
 
-
-Deployed Application
+## Deployed Link:
 Check out the live version of the application here.
-Deo=ployed Link : https://mern-blog-irpz.onrender.com/
+
+Deployed Link : https://mern-blog-irpz.onrender.com/

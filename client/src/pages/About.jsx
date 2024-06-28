@@ -6,11 +6,11 @@ export default function About() {
       <div className="w-full max-w-screen-xl p-6 text-center bg-white dark:bg-gray-900 shadow-md rounded-lg">
         <div className="mb-8">
           <h1 className="text-4xl font-semibold text-center text-gray-800 dark:text-gray-100 my-7">
-            About Blog Application
+            About Modi's Blog
           </h1>
           <div className="text-lg text-gray-600 dark:text-gray-400 flex flex-col gap-8">
             <p className="text-blue-600 dark:text-blue-300">
-              Welcome to <span className="underline">Blog Application</span> - a digital sanctuary where
+              Welcome to <span className="underline">Modi's Blog</span> - a digital sanctuary where
               <span className="underline"> curiosity meets creativity</span>, and where the realms of
               <span className="underline"> technology</span>, <span className="underline">philosophy</span>,
               <span className="underline"> mathematics</span>, and beyond intertwine in a symphony
@@ -24,7 +24,7 @@ export default function About() {
               there's something here for every seeker of <span className="underline">enlightenment</span>.
             </p>
             <p className="text-purple-600 dark:text-purple-300">
-              At <span className="underline">Blog Application</span>, we believe in the power of
+              At <span className="underline">Modi's Blog</span>, we believe in the power of
               <span className="underline"> intellect</span> and <span className="underline">imagination</span>
               to shape our understanding of the world. Whether you're a seasoned <span className="underline">programmer</span> seeking
               the latest insights into <span className="underline">web development trends</span> or a philosophical ponderer
